@@ -23,7 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munam32&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Munam32" /></p>
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=Munam32&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="Munam32" /></p>
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=Munam32&theme=radical&hide_border=false" alt="Munam32" /></p>
-<p><img align="right" src="https://github-contributor-stats.vercel.app/api?username=Munam32&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Munam32" /></p>
+<p><img align="left" src="https://github-contributor-stats.vercel.app/api?username=Munam32&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Munam32" /></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=Munam32&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 

@@ -21,10 +21,10 @@
 
 
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Munam32&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Munam32&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Munam32&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Munam32&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=Munam32&limit=5&theme=radical&combine_all_yearly_contributions=true)

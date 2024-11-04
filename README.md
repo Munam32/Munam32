@@ -3,7 +3,6 @@
 <br>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-#Profile Visits
 [![](https://visitcount.itsvg.in/api?id=Munam32&icon=0&color=7)](https://visitcount.itsvg.in)
 
 
@@ -23,15 +22,15 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Munam32&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Munam32&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Munam32&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Munam32&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Munam32&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-### 🔝 Top Contributed Repo
+
+
 ![](https://github-contributor-stats.vercel.app/api?username=Munam32&limit=5&theme=dark&combine_all_yearly_contributions=true)
----
+
 
 

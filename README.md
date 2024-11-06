@@ -1,4 +1,4 @@
-# Hi ! I am Abdul Munam 💫 :
+# Hi ! I am Abdul Munam 💫
 🔭 I’m currently working on Web Development, Data Science, AL/ML Algorithms<br>🌱 I’m currently learning everything<br>💬 Ask me about anything<br>⚡ Fun fact  I am not funny
 
 
@@ -12,10 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Munam32&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Munam32&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Munam32&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---

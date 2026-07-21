@@ -1,1 +1,1 @@
-(game.gif)
+![Contribution Graph](game.gif)
